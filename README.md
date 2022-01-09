@@ -22,3 +22,9 @@
       <td>Easy</td>
       <td><a href="https://github.com/gulsahh1/100-Days-Of-Algorithm-Problems/blob/main/Algorithm-Problems-Easy/Palindrome.js">Javascript</a></td>
     </tr>
+      <tr>
+      <th scope="row">3</th>
+        <td>Roman To Integer</td>
+      <td>Easy</td>
+      <td><a href="https://github.com/gulsahh1/100-Days-Of-Algorithm-Problems/blob/main/Algorithm-Problems-Easy/RomanToInteger.js">Javascript</a></td>
+    </tr>
